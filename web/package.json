@@ -1,0 +1,10 @@
+{
+  "name": "drut-web",
+  "version": "0.0.1",
+  "description": "Web",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js"
+  }
+}
